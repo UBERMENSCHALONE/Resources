@@ -12,3 +12,8 @@ Alt-H1
 
 Alt-H2
 ------
+
+Вот наш логотип (наведите указатель, чтобы увидеть текст заголовка):
+
+Внутри строки:  
+![alt-текст](https://github.com/UBERMENSCHALONE/Resources/blob/master/Projects/Messenger/Authentication.png "Текст заголовка логотипа 1")
